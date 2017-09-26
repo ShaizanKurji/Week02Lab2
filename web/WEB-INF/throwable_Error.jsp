@@ -13,6 +13,7 @@
     </head>
     <body>
         <h1>Java Error: Exception thrown</h1>
+        <p>There was an error in your program</p>
     
     </body>
 </html>

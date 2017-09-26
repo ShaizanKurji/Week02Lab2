@@ -29,12 +29,12 @@
            
     <error-page>
         <error-code>404</error-code>
-        <location>/404_Error.jsp</location>
+        <location>/WEB-INF/404_Error.jsp</location>
     </error-page>   
     
      <error-page>
          <exception-type>java.lang.Throwable</exception-type>
-         <location>/throwable_Error.jsp</location>
+         <location>/WEB-INF/throwable_Error.jsp</location>
      </error-page> 
     
     
